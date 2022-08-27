@@ -160,7 +160,7 @@
 
 
 
-//13.
+//13. This function calculates the sum of three numbers and returns the sum.
 //var a = (98);
 //var b = (12);
 //var c = (25);
